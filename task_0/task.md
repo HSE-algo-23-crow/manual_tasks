@@ -6,7 +6,8 @@
 Да поможет Господь с этим справиться!
 
 [Эндрю Фриз](http://parafraz.space/programmist-i-sisadmin-stihi-o-professiyah/)
-
+<br>
 ### GIGACODE Team
+<img src="./images.jpg"  alt="типо крутой хацкер">
 
-!(Типо крутые хакеры)[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0vW3j4LLshdvw6CcP0JjB-Cqn-dpgB2rOHA&usqp=CAU]
+
