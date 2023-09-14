@@ -1,15 +1,12 @@
 # Задание №0
 ## Совместная работа с файлом
->О сколько нам открытий чудных</br>
-Готовят просвещенья дух</br>
-И опыт, сын ошибок трудных,</br>
-И гений, парадоксов друг,</br>
-И случай, бог изобретатель.</br>
+Да поможет Господь не свихнуться</br>
+Среди Чайников, Юзеров, Ламеров,<br>
+Быть Админом — большое Искусство,<br>
+Да поможет Господь с этим справиться!
 
-1829 г. [А.С.Пушкин](https://habr.com/ru/companies/skillbox/articles/413161/)
+[Эндрю Фриз](http://parafraz.space/programmist-i-sisadmin-stihi-o-professiyah/)
 
-### Red Team
+### GIGACODE Team
 
-### Green Team
-
-### Blue Team
+!(Типо крутые хакеры)[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0vW3j4LLshdvw6CcP0JjB-Cqn-dpgB2rOHA&usqp=CAU]
