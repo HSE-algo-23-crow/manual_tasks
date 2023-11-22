@@ -1,15 +1,15 @@
 ### Условия задачи для Mongolian Tomatoes:
   
-$$      
-A =       
- \begin{pmatrix}      
-  -2 & -3 & 0 & \cdots & 0 & 0 \\      
-  21 & -2 & -3 & \cdots & 0 & 0 \\      
-  0 & 21 & -2 & \cdots & 0 & 0 \\      
-  \vdots  & \vdots & \vdots & \ddots & \vdots & \vdots  \\      
-  0 & 0 & 0 & \cdots & -2 & -3 \\      
-  0 & 0 & 0 & \cdots & 21 & -2       
- \end{pmatrix}      
+$$    
+A =     
+ \begin{pmatrix}    
+  -14 & 2 & 0 & \cdots & 0 & 0 \\    
+  24 & -14 & 2 & \cdots & 0 & 0 \\    
+  0 & 24 & -14 & \cdots & 0 & 0 \\    
+  \vdots  & \vdots & \vdots & \ddots & \vdots & \vdots  \\    
+  0 & 0 & 0 & \cdots & -14 & 2 \\    
+  0 & 0 & 0 & \cdots & 24 & -14     
+ \end{pmatrix}    
 $$
 
 Порядок матрицы *n* = 12
