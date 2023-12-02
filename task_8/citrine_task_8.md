@@ -49,10 +49,10 @@ II - Второй этап работы
     displayMode: compact
 ---
 gantt
-    
+    todayMarker off
     title Диаграмма Ганта - Алгоритм Джонсона для 2 исполнителей
-    dateFormat HH:mm  
-    axisFormat %a %H
+    dateFormat HH:mm 
+    axisFormat %H
     Начало выполнения работ : milestone, m1, 00:00, 0h
     section I
     C         :a1, 00:00, 3h
@@ -102,7 +102,7 @@ T = max(14;11) = 14$$
     displayMode: compact
 ---
 gantt
-    
+    todayMarker off
     title Диаграмма Ганта - Ленточная стратегия для 4 исполнителей
     dateFormat HH:mm  
     axisFormat %H
@@ -126,3 +126,6 @@ gantt
     
     Окончание выполнения работ : milestone, m3, after d2, 0h
 ```
+
+### Ответ
+14 часов
