@@ -72,7 +72,7 @@ gantt
     section Конвейер 2
     G     :b1, after a1, 5h
     B     :b2, after a2, 10h
-    A     :b3, after a3 b1, 8h
+    A     :b3, after a3 b2, 8h
     J     :b4, after a4 b3, 6h
     C     :b5, after a5 b4, 6h
     F     :b6, after a6 b5, 9h
@@ -80,11 +80,11 @@ gantt
     D     :b8, after a8 b7, 7h
     E     :b9, after a9 b8, 5h
     H     :b10, after a10 b9, 4h
-    Окончание выполнения работ : milestone, m2, 03 19:00, 0h
+    Окончание выполнения работ : milestone, m2, 04 00:00, 0h
 ```
 
 ## 4. Ответ
-Длительность выполнения работ: **67 часов**.
+Длительность выполнения работ: **72 часа**.
 
 
 # Задача 2 (Вариант 3):
