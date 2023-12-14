@@ -42,9 +42,9 @@ graph TB
     B((B #12 <8,7>))-->F
     B-->G((G #8 <5,4>))
     C((C #13 <8>))-->G
-    D((D #14 <10, 9>))-->H((H #9 <6>))
+    D((D #15 <10, 9>))-->H((H #9 <6>))
     D-->I((I #10 <6>))
-    E((E #15 <10>))-->I
+    E((E #14 <10>))-->I
     F-->J((J #4 <1>))
     G-->J
     G-->K((K #5 <2,1>))
@@ -65,8 +65,8 @@ gantt
     axisFormat %H:%M
     Начало выполнения работ : milestone, m1, 00:00, 0h
     section Исполнитель 1
-    E         :e, 00:00, 1h
-    C         :c, after e, 1h    
+    D         :d, 00:00, 1h
+    C         :c, after d, 1h    
     A         :a, after c, 1h    
     H         :h, after a, 1h
     F         :f, after h, 1h
@@ -74,8 +74,8 @@ gantt
     O         :o, after k, 1h
     M         :m, after o, 1h
     section Исполнитель 2
-    D         :d, 00:00, 1h
-    B         :b, after d, 1h
+    E         :e, 00:00, 1h
+    B         :b, after e, 1h
     I         :i, after b, 1h
     G         :g, after i, 1h
     L         :l, after g, 1h
